@@ -19,6 +19,10 @@ class App extends Component {
           >
             Learn React
           </a>
+       <div className="App-body">
+          <p>And this is where Chris learns something new
+          </p>
+        </div>
         </header>
       </div>
     );
